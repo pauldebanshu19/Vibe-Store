@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a7192077-71c9-4fe3-9334-b9020d57513d)
 # Vibes Store - Modern E-commerce Platform
 
 A modern, feature-rich e-commerce platform built with Next.js, TypeScript, and Tailwind CSS. The application offers a sleek dark theme design with smooth animations and a responsive layout.
